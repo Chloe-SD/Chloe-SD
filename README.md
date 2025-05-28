@@ -6,8 +6,18 @@ I'm a full-stack software developer with a passion for building secure, user-fri
 
 ---
 
-##🔗 Check out my portfolio
-🌐 CodeByChloe.com
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🖥️ Portfolio</strong><br>
+      <a href="https://CodeByChloe.com" target="_blank">CodeByChloe.com</a>
+    </td>
+    <td align="center" width="50%">
+      <strong>💼 LinkedIn</strong><br>
+      <a href="https://linkedin.com/in/chloe-nibali" target="_blank">linkedin.com/in/chloe-nibali</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
