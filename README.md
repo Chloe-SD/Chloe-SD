@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hey! I'm Chloe 😊✨
+
+Welcome to my GitHub!
+
+I'm a full-stack software developer with a passion for building secure, user-friendly tools that make life easier for everyday people. I bring a mix of logical problem-solving 🧠, systems thinking ⚙️, and just enough chaos energy to keep things interesting 🔧⚡
+---
+
 
 <!--
 **Chloe-SD/Chloe-SD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
