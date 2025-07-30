@@ -1,6 +1,6 @@
 ## 👋 Hey! I'm Chloe 😊✨ (She/her) 🏳️‍🌈
 
-Full-Stack Developer building secure, user-friendly tools that actually solve real problems for everyday people. I bring logical problem-solving, systems thinking, and just enough chaos energy to keep things interesting ⚡
+Software Developer building secure, user-friendly tools that actually solve real problems for everyday people. I bring logical problem-solving, systems thinking, and creative problem-solving energy ⚡
 
 <div align="center">
   <table>
